@@ -1,0 +1,12 @@
+Summary:
+In this lab I run several console commands to check the configuration and connectivity of my windows 10 VM.
+
+Useful commands:
+1. Ping: allows you to check the response trime of certain IPs or devices
+2. IpConfig: allows you to veiw you Ip configuration
+3. tracert: allows you to veiw the Ips which your command went through to reach its destination.
+4. nslookup: used to lookup domain names and IPs of a DNS
+
+Problems and setbacks:
+1. step 12 asks to ping the IPs of those next to you, I had to do this excercise out of class and was not able to do this.
+
